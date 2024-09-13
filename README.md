@@ -1,6 +1,7 @@
 # これは何
 
 自分で適当に集めた検索 URL を Duckduckgo の bang みたいに使おうというだけ。
+実態はただの URL 集。
 
 # firefox での使い方
 
